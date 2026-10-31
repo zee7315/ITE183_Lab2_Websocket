@@ -1,4 +1,7 @@
 # ITE183_Lab2_Websocket
+  
+   ## Laboratory Report
+[Download the Lab 2 Report (PDF)](Lab2_Report__1_.pdf)
 
 A WebSocket chat server built with the Bonezegei Scripting Language (v1.3.3).
 
