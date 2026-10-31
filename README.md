@@ -2,8 +2,8 @@
   A WebSocket chat server built with the Bonezegei Scripting Language (v1.3.3).
 
    ## Laboratory Report
-[Download the Lab 2 Report (PDF)](Lab2_Report__1_.pdf)
-
+   [Download the Lab 2 Report (PDF)](Lab2_Report%20%281%29.pdf)
+   
 ## Features
 - Serves static files from `public/`
 - Custom 404 page for unknown routes
